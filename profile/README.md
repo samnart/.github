@@ -18,10 +18,11 @@ Build tools that actually get used. Focus on:
 
 Found a bug or have an idea? Open an issue or submit a PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-## Contact
+---
+*Building tools that matter.*
+
+<!--- ## Contact
 
 - GitHub: [@samnart1](https://github.com/samnart1)
 - Email: tettey1234567@gmail.com
-
----
-*Building tools that matter.*
+--->
