@@ -1,28 +1,13 @@
-# Awesome!
+# Skill Link
 
-Open source tools and utilities that solve real problems. Clean code, practical solutions.
+Hi everyone,  
+We’re building SkillLink, the Peer Mentorship Network. 
 
-## Current Projects
+## Vision
+Our vision is to make personalized mentorship accessible to everyone: students, career changers and lifelong learners, helping them find direction and grow with purpose.
 
-- **[repo-scraper](https://github.com/samnart/repo-scraper)** - Scrape all public repositories with detailed data from any github org or user
+## Problem
+The problem is that many people struggle to find mentors who understand their goals or provide actionable feedback. That leaves them stuck and uncertain about their next steps.
 
-## Philosophy
-
-Build tools that actually get used. Focus on:
-- Solving genuine pain points
-- Clean, readable code
-- Minimal dependencies
-- Good documentation
-
-## Contributing
-
-Found a bug or have an idea? Open an issue or submit a PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
----
-*Building tools that matter.*
-
-<!--- ## Contact
-
-- GitHub: [@samnart1](https://github.com/samnart1)
-- Email: tettey1234567@gmail.com
---->
+## Solution
+Our solution begins with an AI mentor that helps users explore their interests, skills, and career paths. As SkillLink grows, it will connect users with peers of slightly higher skill levels, creating a living mentorship ecosystem powered by real people helping one another. 
